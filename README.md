@@ -2,7 +2,7 @@
 
 
 # BEST DISCORD NUKER
-## 18 FUNCTIONS
+## 19 FUNCTIONS
 
 > + Write something
 > + Set status
@@ -27,6 +27,5 @@
 ### Step 2 - Select the bot
 ### Step 3 - Go to __BOT CATEGORY__
 ### Step 4 - Click reset token, and copy token
-
 
 ###### Writed on **Python**
