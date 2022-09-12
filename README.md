@@ -15,4 +15,12 @@
 > **AND MORE....**
 
 
+### TUTORIALS
+
+# How to enable intents
+## Step 1 - Go to [discord.dev](https://discord.dev)
+## Step 2 - Enable this features:!
+[image](https://user-images.githubusercontent.com/98418238/189589981-7edd23bb-3cf0-4abc-a429-431e35cf4276.png)
+
+
 ###### Writed on **Python**
