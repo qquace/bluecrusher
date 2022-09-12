@@ -2,7 +2,7 @@
 
 
 # BEST DISCORD NUKER
-## 19 FUNCTIONS
+## 30 FUNCTIONS
 
 > + Write something
 > + Set status
